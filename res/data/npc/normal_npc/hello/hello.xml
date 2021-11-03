@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+    <data>
+        <id>1</id>
+        <content>Hơ ... hức ... Chào mừng đến với Laurel Paradise!</content>
+    </data>
+    <data>
+        <id>2</id>
+        <content>Chàng trai trẻ, chào mừng đến với Làng Yuegui! Bạn có thể làm gì với tôi?</content>
+    </data>
+    <data>
+        <id>3</id>
+        <content>Này! Là siêu cao thủ, thật sự là cô đơn không chịu nổi!</content>
+    </data>
+    <data>
+        <id>4</id>
+        <content>Bạn có ở đây để mua áo giáp không? Đồ của tôi chất lượng tốt và rẻ!</content>
+    </data>
+    <data>
+        <id>5</id>
+        <content>Tôi không biết khi nào thanh kiếm của tôi sẽ được tháo vỏ!</content>
+    </data>
+    <data>
+        <id>6</id>
+        <content>Này! Độ cao thật lạnh lùng. Các anh hùng cần người khác ngước nhìn!</content>
+    </data>
+    <data>
+        <id>7</id>
+        <content>Thật là lộn xộn! Không biết thu hoạch năm nay sẽ như thế nào.</content>
+    </data>
+    <data>
+        <id>8</id>
+        <content>Bạn đến đây mua đồ, tôi có tất cả mọi thứ ở đây, tôi có chuyện muốn nói, xin chào!</content>
+    </data>
+    <data>
+        <id>9</id>
+        <content>Vũ khí này đều do tôi chế tạo rất cẩn thận, cùng xem qua nhé!</content>
+    </data>
+    <data>
+        <id>10</id>
+        <content>Đó là trách nhiệm vinh quang và gian khổ của tôi khi canh giữ vùng đồng bằng cát nóng.</content>
+    </data>
+    <data>
+        <id>11</id>
+        <content>Hôm nay thời tiết tốt, tôi có thể làm gì nếu bạn đến gặp tôi?</content>
+    </data>
+    <data>
+        <id>12</id>
+        <content>Bạn thua?</content>
+    </data>
+    <data>
+        <id>13</id>
+        <content>Bây giờ làm ăn khó lắm, không biết có thể tồn tại được bao lâu.</content>
+    </data>
+    <data>
+        <id>14</id>
+        <content>呜…….</content>
+    </data>
+    <data>
+        <id>15</id>
+        <content>Haha, bạn đến đây để thăm tôi?</content>
+    </data>
+    <data>
+        <id>16</id>
+        <content>Đến gặp ông già có chuyện gì vậy?</content>
+    </data>
+    <data>
+        <id>17</id>
+        <content>Xin chào, bạn trẻ! Chào mừng đến với Thành phố Mingshadi.</content>
+    </data>
+    <data>
+        <id>18</id>
+        <content>Tôi là bảo vệ ở đây, tôi có thể giúp gì cho bạn?</content>
+    </data>
+    <data>
+        <id>19</id>
+        <content>Chào mừng bạn đến với ngôi nhà khiêm tốn, bạn phải ở đây để mua áo giáp!</content>
+    </data>
+    <data>
+        <id>20</id>
+        <content>Tôi là bảo vệ ở đây, tôi có thể giúp gì cho bạn?</content>
+    </data>
+    <data>
+        <id>21</id>
+        <content>Quan khách, anh tới đây để mua vũ khí, vào xem thử!</content>
+    </data>
+    <data>
+        <id>22</id>
+        <content>Này, khi nào thì cuộc chiến này sẽ kết thúc?</content>
+    </data>
+    <data>
+        <id>23</id>
+        <content>Hẻm núi Mingsha này đầy rẫy nguy hiểm, các bạn trẻ đi đâu cũng phải cẩn thận!</content>
+    </data>
+    <data>
+        <id>24</id>
+        <content>Chào mừng đến với Thành phố Mingshadi, tôi có thể giúp gì cho bạn?</content>
+    </data>
+    <data>
+        <id>25</id>
+        <content>Tôi là bảo vệ ở đây, tôi có thể giúp gì cho bạn?</content>
+    </data>
+    <data>
+        <id>26</id>
+        <content>Tôi là Xiaoqiang, một thợ làm gỗ, vì vậy bạn sẽ không đến gặp tôi để sửa cây cầu.</content>
+    </data>
+    <data>
+        <id>27</id>
+        <content>Những ngày này, ngũ cốc luôn không đủ ăn, tôi, nhân viên vận chuyển ngũ cốc, phải chịu áp lực rất lớn.</content>
+    </data>
+    <data>
+        <id>28</id>
+        <content>Tôi có thể nhìn thấy nguồn gốc của thế giới, nhưng tôi không thể tìm thấy điểm đến của mình ...</content>
+    </data>
+    <data>
+        <id>29</id>
+        <content>Ngôi mộ cổ này thực sự rất bí ẩn và khó đoán! Nó dường như có một ma lực mạnh mẽ.</content>
+    </data>
+    <data>
+        <id>30</id>
+        <content>Bạn thua?</content>
+    </data>
+    <data>
+        <id>31</id>
+        <content>Bạn có nghe nói về sư tử, tôi là người bảo vệ của sư tử, và tôi có một trách nhiệm lớn!</content>
+    </data>
+    <data>
+        <id>32</id>
+        <content>Xin chào, tôi là bảo vệ ở đây, tôi có thể giúp gì cho bạn?</content>
+    </data>
+    <data>
+        <id>33</id>
+        <content>Chào mừng bạn đến với Longgujieling, tôi có thể giúp gì cho bạn?</content>
+    </data>
+    <data>
+        <id>34</id>
+        <content>Tôi không biết xương già này có thể tồn tại được bao lâu!</content>
+    </data>
+    <data>
+        <id>35</id>
+        <content>Người anh em này, Long Môn Động là khu vực nguy hiểm nhất trong bán kính trăm dặm, đừng hòng các ngươi xung quanh!</content>
+    </data>
+    <data>
+        <id>36</id>
+        <content>Tôi không biết chuyện gì xảy ra với chồng, không có tin tức gì từ khi tôi ra tiền tuyến.</content>
+    </data>
+    <data>
+        <id>37</id>
+        <content>Tôi nhớ con dâu.</content>
+    </data>
+    <data>
+        <id>38</id>
+        <content>Này nhé, trong thời buổi khó khăn, làm ăn khó thành! Nhân viên khách này, bạn cần gì?</content>
+    </data>
+    <data>
+        <id>39</id>
+        <content>Có điều gì đến với tôi không?</content>
+    </data>
+    <data>
+        <id>40</id>
+        <content>Trong thế giới ngày nay, chỉ có kiếm thuật của con cháu Yufengjian mới có thể sánh ngang với ta, sư phụ thật cô đơn!</content>
+    </data>
+    <data>
+        <id>41</id>
+        <content>Hôm nay thời tiết tốt. Tôi có thể làm gì?</content>
+    </data>
+    <data>
+        <id>42</id>
+        <content>Xin chào, chàng trai trẻ! Chào mừng bạn đến với Làng Tâm hồn Vỡ.</content>
+    </data>
+    <data>
+        <id>43</id>
+        <content>Chào mừng bạn đến với thế giới gương cổ tích, bạn có cần giúp đỡ gì không?</content>
+    </data>
+    <data>
+        <id>44</id>
+        <content>Bạn trẻ, chào mừng bạn đến với Làng Flash! Bạn có thể làm gì với tôi?</content>
+    </data>
+    <data>
+        <id>45</id>
+        <content>Bạn có ở đây để mở lối vào lăng mộ dưới lòng đất không?</content>
+    </data>
+    <data>
+        <id>46</id>
+        <content>Đi về phía đông từ đây là Làng Yuegui, nơi bạn chắc chắn có thể tìm thấy thứ mình muốn.</content>
+    </data>
+    <data>
+        <id>47</id>
+        <content>Từ đây về phía đông là Broken Soul Village, khi bạn mệt mỏi với việc giết chóc, bạn có thể tìm thấy dấu vết của sự yên bình ở đó.</content>
+    </data>
+    <data>
+        <id>48</id>
+        <content>Tay nghề ủi đồ của tôi được nhiều người biết đến!</content>
+    </data>
+    <data>
+        <id>49</id>
+        <content>Giữ mọi thứ ở vị trí của tôi, chỉ cần đặt cả trăm trái tim vào nó!</content>
+    </data>
+    <data>
+        <id>50</id>
+        <content>Tham gia băng đảng và tận hưởng thế giới gương cổ tích với bạn bè của bạn!</content>
+    </data>
+    <data>
+        <id>51</id>
+        <content>Nhìn nhau theo hình trăng khuyết, chỉ có vịt quan mới không ghen tị với những người bất tử.</content>
+    </data>
+    <data>
+        <id>52</id>
+        <content>Bạn hài lòng với gói trang sức tinh tế của tôi!</content>
+    </data>
+    <data>
+        <id>53</id>
+        <content>Xin chào, tôi là thủ kho ở đây, tôi có thể giúp gì cho bạn?</content>
+    </data>
+    <data>
+        <id>54</id>
+        <content>Hướng Bắc dẫn đến Shining Paradise. Hãy chú ý kiểm tra các biển báo chỉ dẫn đường thường xuyên, nó sẽ giúp việc di chuyển của bạn trở nên dễ dàng hơn!</content>
+    </data>
+    <data>
+        <id>55</id>
+        <content>Đi về phía đông nam đến bờ Hồ Shining, và đi về phía nam đến Shining Village.</content>
+    </data>
+    <data>
+        <id>56</id>
+        <content>Đi về phía bắc đến Shining Paradise, và đi về phía đông đến khu rừng lùn Guanggui.</content>
+    </data>
+    <data>
+        <id>57</id>
+        <content>Đi về hướng tây dẫn đến khu rừng lùn nguyệt quế, và đi về hướng nam dẫn đến đồng cỏ nguyệt quế.</content>
+    </data>
+    <data>
+        <id>58</id>
+        <content>Đi về hướng đông dẫn đến khu rừng lùn nguyệt quế, và hướng nam đến thành phố Mingshadi.</content>
+    </data>
+    <data>
+        <id>59</id>
+        <content>Đi về hướng Tây dẫn đến bờ Hồ Reed, và đi về hướng đông sẽ đến Thành phố Hoàng hôn.</content>
+    </data>
+    <data>
+        <id>60</id>
+        <content>Hành trình hướng bắc dẫn đến Laurel Paradise, hành trình hướng nam dẫn đến cánh đồng xanh, hành trình hướng tây dẫn đến Mingsha Wuling, và hành trình hướng đông dẫn đến đường mòn cát nóng.</content>
+    </data>
+    <data>
+        <id>61</id>
+        <content>Hành trình đi về phía bắc dẫn đến Polar Frost Ridge, hành trình đi về hướng nam dẫn đến cánh đồng tuyết lạnh sâu, hành trình đi về hướng tây dẫn đến Fire Dragon Tomb, và hành trình hướng đông dẫn đến Mingsha Wuling Ridge.</content>
+    </data>
+    <data>
+        <id>62</id>
+        <content>Hành trình đi về hướng bắc dẫn đến mặt đất đóng băng của các vùng cực, hành trình đi về hướng nam dẫn đến các tảng băng trôi ở vùng cực và hành trình đi về hướng tây dẫn đến các hang động ở vùng cực.</content>
+    </data>
+    <data>
+        <id>63</id>
+        <content>Hành trình hướng bắc dẫn đến Longgu Jie Ling, hành trình hướng nam dẫn đến Vách đá Longguwang, và hành trình hướng đông dẫn đến Động Long Môn.</content>
+    </data>
+    <data>
+        <id>64</id>
+        <content>Đi về hướng Tây dẫn đến Thành phố Hoàng hôn, và đi về hướng Đông dẫn đến Vùng hoang dã Hoàng hôn.</content>
+    </data>
+    <data>
+        <id>65</id>
+        <content>Hướng bắc dẫn đến đường mòn tinh thể băng và hướng tây dẫn đến các bậc thang đá hoàng hôn.</content>
+    </data>
+    <data>
+        <id>66</id>
+        <content>Hướng bắc dẫn đến đoạn đường nối Longwei, hướng tây dẫn đến đáy của thành phố băng, và hướng đông dẫn đến đường mòn tinh thể băng.</content>
+    </data>
+    <data>
+        <id>67</id>
+        <content>Đi về hướng Nam dẫn đến đoạn đường nối Long Vĩ và đi về hướng Đông dẫn đến Động Long Vĩ.</content>
+    </data>
+    <data>
+        <id>68</id>
+        <content>Hướng bắc dẫn đến tháp quỷ của thị trấn, và hướng đông dẫn đến ngôi làng man rợ.</content>
+    </data>
+    <data>
+        <id>69</id>
+        <content>Hướng bắc dẫn đến Thành phố Mingshadi, hướng nam dẫn đến Tử Cấm Thành và hướng tây dẫn đến Thành phố Rồng.</content>
+    </data>
+    <data>
+        <id>70</id>
+        <content>Đi về hướng Tây dẫn đến Shenlongtan, và đi về hướng đông dẫn đến Thung lũng Rồng lửa.</content>
+    </data>
+    <data>
+        <id>71</id>
+        <content>Đi về hướng bắc dẫn đến Shenlongtan, và đi về hướng tây dẫn đến Luoxia Camp.</content>
+    </data>
+    <data>
+        <id>72</id>
+        <content>Đi về hướng Tây dẫn đến Cấm địa ánh sáng, và đi về hướng nam dẫn đến Thánh địa Panlong.</content>
+    </data>
+    <data>
+        <id>73</id>
+        <content>Hướng bắc dẫn đến khu rừng rậm tự do, và hướng đông dẫn đến Xiegu Mountain Col.</content>
+    </data>
+    <data>
+        <id>74</id>
+        <content>Đi về hướng bắc dẫn đến Thị trấn Yueying, đi về hướng tây dẫn đến Xiegu Mountain Col, và đi về hướng đông dẫn đến Shuhai.</content>
+    </data>
+    <data>
+        <id>75</id>
+        <content>Hành trình hướng bắc dẫn đến biển cây, hành trình hướng tây dẫn đến gian hàng bia đá tourmaline, và hành trình hướng đông dẫn đến con đường tourmaline cổ đại.</content>
+    </data>
+    <data>
+        <id>76</id>
+        <content>Đi về phía bắc đến thế giới cổ tích (bản đồ trung tính), và đi về phía nam đến thang rồng tourmaline.</content>
+    </data>
+    <data>
+        <id>77</id>
+        <content>Hướng Bắc dẫn đến Moonlight Paradise. Hãy chú ý kiểm tra các biển báo chỉ dẫn đường thường xuyên, nó sẽ giúp việc di chuyển của bạn trở nên dễ dàng hơn!</content>
+    </data>
+    <data>
+        <id>78</id>
+        <content>Đi về phía đông nam đến bờ Hồ Ánh Trăng, và đi về phía nam đến Làng Ánh Trăng.</content>
+    </data>
+    <data>
+        <id>79</id>
+        <content>Đi về phía bắc đến Moonlight Paradise, và đi về phía đông đến Soul Broken Coppice.</content>
+    </data>
+    <data>
+        <id>80</id>
+        <content>Hướng tây dẫn đến Broken Soul Coppice, và đi về hướng nam dẫn đến Broken Soul Grassland.</content>
+    </data>
+    <data>
+        <id>81</id>
+        <content>Hướng đông dẫn đến Broken Soul Coppice, và hướng nam đến Dark Moon Ancient City.</content>
+    </data>
+    <data>
+        <id>82</id>
+        <content>Đi về hướng Tây dẫn đến bờ Hồ Darkwood, và đi về hướng đông sẽ đến Thành phố Cổ Xiannian.</content>
+    </data>
+    <data>
+        <id>83</id>
+        <content>Hành trình hướng bắc dẫn đến Vùng đất của những linh hồn tan vỡ, hành trình hướng nam dẫn đến Đồng bằng ma, hành trình đi về hướng tây dẫn đến Dark Moon Mist Ridge, và hành trình hướng đông dẫn đến Con đường Ngày tận thế.</content>
+    </data>
+    <data>
+        <id>84</id>
+        <content>Hành trình hướng bắc dẫn đến Evernight Frost Ridge, hành trình đi về hướng nam dẫn đến Evernight Snowfield, hành trình đi về hướng tây dẫn đến Evil Dragon Tomb, và hành trình hướng đông dẫn đến Dark Moon Mist Ridge.</content>
+    </data>
+    <data>
+        <id>85</id>
+        <content>Đi về hướng bắc dẫn đến vùng đất đóng băng không có đêm, đi về hướng nam dẫn đến tảng băng trôi qua đêm và đi về hướng tây dẫn đến hang động không đêm.</content>
+    </data>
+    <data>
+        <id>86</id>
+        <content>Hành trình đi về hướng bắc dẫn đến Quan tài sắt Jie Ling, hành trình đi về hướng nam dẫn đến Vách đá quan tài sắt, và hành trình đi về hướng đông dẫn đến Động quỷ Rồng.</content>
+    </data>
+    <data>
+        <id>87</id>
+        <content>Hành trình đi về hướng tây dẫn đến thành phố cổ Xiannian, và hành trình đi về hướng đông dẫn đến vùng hoang dã vô vọng.</content>
+    </data>
+    <data>
+        <id>88</id>
+        <content>Đi về hướng bắc dẫn đến con đường băng chết chóc, và hướng tây dẫn đến những bậc thang bằng đá của sự tuyệt vọng.</content>
+    </data>
+    <data>
+        <id>89</id>
+        <content>Hướng bắc dẫn đến núi Xielong, hướng tây dẫn đến Thành phố băng giá và hướng đông dẫn đến Death Ice Road.</content>
+    </data>
+    <data>
+        <id>90</id>
+        <content>Đi về hướng Nam dẫn đến Dãy núi Ác Long, và đi về hướng Đông dẫn đến Động Rồng Ác.</content>
+    </data>
+    <data>
+        <id>91</id>
+        <content>Đi về hướng bắc dẫn đến Tower of the Dead, và đi về hướng đông dẫn đến làng zombie.</content>
+    </data>
+    <data>
+        <id>92</id>
+        <content>Hành trình hướng bắc dẫn đến thành phố cổ đại Dark Moon, hành trình đi về hướng nam dẫn đến Vùng đất Cấm Scarlet, và hành trình đi về hướng tây dẫn đến Thành phố Quỷ dữ.</content>
+    </data>
+    <data>
+        <id>93</id>
+        <content>Đi về hướng Tây dẫn đến Ao Rồng Quỷ, và đi về hướng Đông dẫn đến Thung lũng Lửa Quỷ.</content>
+    </data>
+    <data>
+        <id>94</id>
+        <content>Hướng bắc dẫn đến Devil Dragon Pond, và hướng tây dẫn đến trại xương.</content>
+    </data>
+    <data>
+        <id>95</id>
+        <content>Đi về hướng Tây dẫn đến Vùng đất Cấm Scarlet, và đi về hướng Nam dẫn đến Bàn thờ Quỷ.</content>
+    </data>
+    <data>
+        <id>96</id>
+        <content>Hướng bắc dẫn đến khu rừng rậm hạn chế, và hướng đông dẫn đến Ghost Mountain Col.</content>
+    </data>
+    <data>
+        <id>97</id>
+        <content>Hành trình đi về phía bắc dẫn đến Thị trấn Ma, hành trình đi về phía tây dẫn đến Ghost Mountain Col, và hành trình hướng đông dẫn đến biển cây u ám.</content>
+    </data>
+    <data>
+        <id>98</id>
+        <content>Hành trình hướng bắc dẫn đến biển cây, hành trình hướng tây dẫn đến gian hàng bia hoa văn ma thuật, và hành trình hướng đông dẫn đến con đường cổ kính ma thuật.</content>
+    </data>
+    <data>
+        <id>99</id>
+        <content>Đi về phía bắc đến thế giới cổ tích (bản đồ trung lập), và đi về phía nam đến chiếc thang ma thuật rồng.</content>
+    </data>
+    <data>
+        <id>100</id>
+        <content>Đi về phía bắc đến Chenguang Cliff.</content>
+    </data>
+    <data>
+        <id>101</id>
+        <content>Đi về hướng Nam dẫn đến Rừng Bướm Ziyun, đi về hướng Đông dẫn đến Đền Ziwei.</content>
+    </data>
+    <data>
+        <id>102</id>
+        <content>Hướng bắc dẫn đến khu bảo tồn crape myrtle, và hướng đông dẫn đến biển hoa trong mây.</content>
+    </data>
+    <data>
+        <id>103</id>
+        <content>Hành trình đi về phía bắc dẫn đến Cấm địa của Thế giới Bất tử, hành trình đi về hướng nam dẫn đến Vườn Vân Trung, hành trình đi về hướng tây dẫn đến Con đường Vân Hạ, và hành trình hướng đông dẫn đến Thung lũng Yunxian.</content>
+    </data>
+    <data>
+        <id>104</id>
+        <content>Hành trình hướng bắc dẫn đến biển mây, hành trình hướng tây dẫn đến hội trường ánh sáng ban mai, và hành trình hướng đông dẫn đến thánh địa rực rỡ buổi sáng.</content>
+    </data>
+    <data>
+        <id>105</id>
+        <content>Đi về phía nam đến Thung lũng Tiên Chenxia.</content>
+    </data>
+    <data>
+        <id>106</id>
+        <content>Đi về hướng Tây dẫn đến Thung lũng Vân Trung, và đi về hướng Đông dẫn đến Vườn Vân Trung.</content>
+    </data>
+    <data>
+        <id>107</id>
+        <content>Hướng Tây dẫn đến Hồ Thiên Kinh, và hướng Đông dẫn đến biển cây trong mây.</content>
+    </data>
+    <data>
+        <id>108</id>
+        <content>Đi về hướng Bắc dẫn đến Vườn Vân Trung, và đi về hướng Nam dẫn đến Núi Xianwu.</content>
+    </data>
+    <data>
+        <id>109</id>
+        <content>Hướng bắc dẫn đến Xianwu Ridge, và hướng đông dẫn đến Asahi Immortal Road.</content>
+    </data>
+    <data>
+        <id>110</id>
+        <content>Hành trình hướng bắc dẫn đến khu rừng mưa thần tiên, hành trình hướng nam dẫn đến Con đường bất tử Asahi, và hành trình hướng đông dẫn đến Dốc Xianyang.</content>
+    </data>
+    <data>
+        <id>111</id>
+        <content>Đi về hướng nam dẫn đến Xianyangpo, đi về hướng tây dẫn đến Rừng Xianyu và đi về hướng đông dẫn đến Xianyu Ancient Road.</content>
+    </data>
+    <data>
+        <id>112</id>
+        <content>Đi về hướng Nam dẫn đến Đỉnh Danlu, và đi về hướng Tây dẫn đến Xianyangpo.</content>
+    </data>
+    <data>
+        <id>113</id>
+        <content>Đi về hướng nam dẫn đến Rừng Thuốc Bất Tử, hướng tây dẫn đến phòng giả kim, và hướng đông dẫn đến Đỉnh Lò Luyện Thuốc.</content>
+    </data>
+    <data>
+        <id>114</id>
+        <content>Đi về hướng bắc dẫn đến Đỉnh Xueyun (bản đồ trung lập), đi về hướng nam dẫn đến Mingsha Wuling, và đi về hướng tây dẫn đến Polar Frost Ridge.</content>
+    </data>
+    <data>
+        <id>115</id>
+        <content>Hành trình đi về phía bắc dẫn đến Đỉnh Xueyun (bản đồ trung tính), hành trình đi về hướng nam dẫn đến Dark Moon Mist Ridge, và hành trình đi về phía tây dẫn đến Everlasting Frost Ridge.</content>
+    </data>
+    <data>
+        <id>150</id>
+        <content>Tôi có rất nhiều kỹ năng tạo hận thù và tự vệ, bạn có đến tìm tôi để học nó không?</content>
+    </data>
+    <data>
+        <id>151</id>
+        <content>Ta có sức tấn công vật lý rất mạnh, đặc biệt là các chiêu thức tấn công và kỹ năng cường hóa sức tấn công thật không thể tin được!</content>
+    </data>
+    <data>
+        <id>152</id>
+        <content>Đây là một trang web đào tạo chuyên nghiệp nâng cao của hệ thống trinh sát dựa trên dao găm. Kỹ năng cận chiến bùng nổ cao là chuyên môn của chúng tôi!</content>
+    </data>
+    <data>
+        <id>153</id>
+        <content>Chúng ta được sinh ra với cung tên và các kỹ năng tầm xa mạnh mẽ như một phương tiện tấn công.</content>
+    </data>
+    <data>
+        <id>154</id>
+        <content>Có một sức mạnh tấn công thần chú mạnh mẽ, và có thể điều khiển lửa và các yếu tố tự nhiên là đặc sản của tôi!</content>
+    </data>
+    <data>
+        <id>155</id>
+        <content>Tôi có thể kiểm soát các yếu tố băng và bóng tối, và các phép thuật thiên về khả năng kiểm soát và khả năng sống sót, chào mừng bạn đến và học hỏi!</content>
+    </data>
+    <data>
+        <id>156</id>
+        <content>Tôi có kỹ năng chữa bệnh mạnh mẽ và kỹ năng bổ trợ nổi bật, chào mừng bạn đến và học hỏi từ tôi!</content>
+    </data>
+    <data>
+        <id>157</id>
+        <content>Tôi không chỉ thuần thục các kỹ năng chữa bệnh, mà còn thêm một vài kỹ năng ma thuật bóng tối, chào mừng bạn đến và học hỏi từ tôi!</content>
+    </data>
+    <data>
+        <id>158</id>
+        <content>Xin chào, tôi là con gái của Yandi, Nữ thần Wushan và hiện tại, chiến dịch "Tiền thưởng cho bạn bè cũ" đã được khởi động, chào mừng bạn đến thu thập nhiệm vụ! (Cấp độ nhiệm vụ: 15)</content>
+    </data>
+    <data>
+        <id>159</id>
+        <content>Xin chào, tôi là Bing Yi, vợ của Bo He, và hiện tại sự kiện "Sạch sẽ nghĩ đến bạn cũ nhận xu thưởng" đã được phát động, hoan nghênh bạn đến thu thập nhiệm vụ! (Cấp nhiệm vụ: 15)</content>
+    </data>
+    <data>
+        <id>160</id>
+        <content>Chàng trai trẻ, chào mừng đến đây!</content>
+    </data>
+    <data>
+        <id>161</id>
+        <content>Là một người ít quan trọng, làm những điều quan trọng là phong cách của tôi!</content>
+    </data>
+    <data>
+        <id>162</id>
+        <content>Trên đời không có gì khó, ngại gì người quan tâm!</content>
+    </data>
+    <data>
+        <id>163</id>
+        <content>Khoảng cách xa nhất trên thế giới là khi tôi ở trước mặt bạn, nhưng bạn không biết rằng tôi yêu bạn.</content>
+    </data>
+    <data>
+        <id>164</id>
+        <content>Sống là phải được sinh ra và sống.</content>
+    </data>
+    <data>
+        <id>165</id>
+        <content>Để trở thành một người đàn ông, một người phải là một người bảo vệ.</content>
+    </data>
+    <data>
+        <id>166</id>
+        <content>Tôi cảm thấy như tôi đang yêu!</content>
+    </data>
+    <data>
+        <id>167</id>
+        <content>Tôi phải làm gì nếu tôi thích một ai đó!</content>
+    </data>
+    <data>
+        <id>168</id>
+        <content>Khi giàu có, tôi mua một chiếc xe ngựa đặt cạnh nhà ga, khi có người muốn lên xe tôi nói: Xin lỗi, đây là xe tư nhân.</content>
+    </data>
+    <data>
+        <id>169</id>
+        <content>Cũng may là mình tỉnh dậy kịp thời, đỡ bị nhìn thấy đang ngủ trong lúc đứng gác thì ngại quá, may là mình không bị phát hiện hehe!</content>
+    </data>
+    <data>
+        <id>170</id>
+        <content>Tôi đang đói lắm đây!</content>
+    </data>
+    <data>
+        <id>171</id>
+        <content>Sắc là tánh không, tánh không là sắc, A Di Đà!</content>
+    </data>
+    <data>
+        <id>172</id>
+        <content>Tôi rất muốn ăn thịt lợn, mấy tháng nay tôi không có nước nhờn trong bụng. Này! Đêm qua tôi lại mơ thấy món bún hầm giò heo.</content>
+    </data>
+    <data>
+        <id>173</id>
+        <content>Vợ tôi đã ăn hết bữa trưa vào buổi trưa, vì vậy tôi đã ăn năm miếng, và tôi không biết mình có thể cầm lên được không. Này ...</content>
+    </data>
+    <data>
+        <id>174</id>
+        <content>Cha phải coi sét không biết phải làm sao, nhân tiện làm nhiệm vụ cũng không nghĩ ra được. Này! Sao mặt trời lặn đằng tây, đằng đông vẫn chỉ là đằng đông. hiện nay!</content>
+    </data>
+    <data>
+        <id>175</id>
+        <content>Anh có thể ăn hạt vừng của vợ khi anh đi đêm về!</content>
+    </data>
+    <data>
+        <id>176</id>
+        <content>Tôi đã vô tình nhét ngón tay vào lỗ mũi khi rửa mặt vào buổi sáng, và bây giờ tôi vẫn còn cảm thấy rất khó chịu, các bạn trẻ, sau này các bạn phải cẩn thận khi rửa mặt nhé!</content>
+    </data>
+    <data>
+        <id>177</id>
+        <content>Mệt mỏi chết đứng, Mei Hey vẫn bắt gia súc.</content>
+    </data>
+    <data>
+        <id>200</id>
+        <content>Dẫn đến một bản sao của khu di tích bị bỏ hoang, phù hợp với cấp 23-25.</content>
+    </data>
+    <data>
+        <id>201</id>
+        <content>Dẫn đến một bản sao của Fire Dragon Tomb, phù hợp với cấp 18-20.</content>
+    </data>
+    <data>
+        <id>202</id>
+        <content>Dẫn đến phó bản Long Môn Động, phù hợp với cấp 28-30.</content>
+    </data>
+    <data>
+        <id>203</id>
+        <content>Dẫn đến ngục tối của Thành phố Hoàng hôn, phù hợp với cấp 32-35.</content>
+    </data>
+    <data>
+        <id>204</id>
+        <content>Dẫn đến một bản sao của Hang Đuôi Rồng, phù hợp với cấp 37-40.</content>
+    </data>
+    <data>
+        <id>205</id>
+        <content>Dẫn đến một bản sao của tháp quỷ thị trấn, phù hợp với cấp 37-39.</content>
+    </data>
+    <data>
+        <id>206</id>
+        <content>Dẫn đến ngục tối của bộ tộc Luoxia, phù hợp với cấp 46-49.</content>
+    </data>
+    <data>
+        <id>207</id>
+        <content>Dẫn đến một bản sao của Moon Shadow Cave, phù hợp với cấp độ 52-55.</content>
+    </data>
+    <data>
+        <id>208</id>
+        <content>Dẫn đến ngục tối của Tourmaline Peak, phù hợp với cấp độ 58-60.</content>
+    </data>
+    <data>
+        <id>209</id>
+        <content>Dẫn đến một bản sao của tàn tích ngày tận thế, phù hợp với cấp 22-25.</content>
+    </data>
+    <data>
+        <id>210</id>
+        <content>Dẫn đến phó bản của Dragon Tomb, phù hợp với cấp 17-20.</content>
+    </data>
+    <data>
+        <id>211</id>
+        <content>Dẫn đến phó bản Devil Dragon Grotto, phù hợp với cấp độ 28-30.</content>
+    </data>
+    <data>
+        <id>212</id>
+        <content>Dẫn đến phó bản Thành cổ Xie Nian, phù hợp với cấp 31-35.</content>
+    </data>
+    <data>
+        <id>213</id>
+        <content>Dẫn đến một phó bản của động rồng ác, phù hợp với cấp 38-40.</content>
+    </data>
+    <data>
+        <id>214</id>
+        <content>Dẫn đến một bản sao của Tower of the Dead, phù hợp với cấp độ 37-39.</content>
+    </data>
+    <data>
+        <id>215</id>
+        <content>Dẫn đến ngục tối của bộ tộc ngạ quỷ, phù hợp với cấp độ 46-49.</content>
+    </data>
+    <data>
+        <id>216</id>
+        <content>Dẫn đến một bản sao của Demon Flame Cave, phù hợp với cấp độ 52-55.</content>
+    </data>
+    <data>
+        <id>217</id>
+        <content>Dẫn đến ngục tối của đỉnh quỷ, phù hợp với cấp độ 58-60.</content>
+    </data>
+    <data>
+        <id>218</id>
+        <content>Dẫn đến dungeon của Lagerstroemia Sanctuary, phù hợp với cấp độ 55-60.</content>
+    </data>
+    <data>
+        <id>219</id>
+        <content>Dẫn đến ngục tối Dungeon Palace, với cấp độ phù hợp là 55-60.</content>
+    </data>
+    <data>
+        <id>220</id>
+        <content>Dẫn đến dungeon của thung lũng trên mây, phù hợp với cấp độ 59-60.</content>
+    </data>
+    <data>
+        <id>221</id>
+        <content>Dẫn đến phó bản rừng đào bằng phẳng, thích hợp cấp 60-60.</content>
+    </data>
+    <data>
+        <id>222</id>
+        <content>Dẫn đến bản sao của Yuxian Pavilion, phù hợp với cấp 60-60.</content>
+    </data>
+    <data>
+        <id>223</id>
+        <content>Dẫn đến phó bản Rừng Thuốc Bất Tử, thích hợp cấp 60-60.</content>
+    </data>
+    <data>
+        <id>224</id>
+        <content>Dẫn đến một bản sao của căn phòng giả kim thuật, phù hợp với cấp 60-60.</content>
+    </data>
+    <data>
+        <id>225</id>
+        <content>Dẫn đến ngục tối của ngôi đền nô lệ, thích hợp cho cấp độ 15-20.</content>
+    </data>
+    <data>
+        <id>230</id>
+        <content>King Kong Lux có một số lượng lớn các kỹ năng gây hận thù và tự vệ; Sky Lux có sức tấn công vật lý mạnh mẽ, đặc biệt là các phương pháp tấn công và kỹ năng sức mạnh tấn công nâng cao là đáng kinh ngạc!</content>
+    </data>
+    <data>
+        <id>231</id>
+        <content>Sword Scout là nơi đào tạo chuyên nghiệp nâng cao dành cho các trinh sát dựa trên dao găm. Kỹ năng cận chiến với khả năng nổ cao là điểm đặc biệt của họ; các trinh sát mũi tên giỏi sử dụng cung tên và sử dụng các kỹ năng tầm xa mạnh mẽ làm phương tiện tấn công. Họ được sinh ra với chúng.</content>
+    </data>
+    <data>
+        <id>232</id>
+        <content>Fire Master có sức mạnh tấn công phép thuật mạnh mẽ, có thể điều khiển lửa và các nguyên tố tự nhiên; Thiên sư huyền bí có thể kiểm soát các nguyên tố băng và bóng tối, và các phép thuật thiên về khả năng kiểm soát và khả năng sống sót!</content>
+    </data>
+    <data>
+        <id>233</id>
+        <content>Master Witch Doctor có các kỹ năng chữa bệnh mạnh mẽ và các kỹ năng phụ trợ vượt trội; Spirit Spring Witch Doctor không chỉ thuần thục các kỹ năng chữa bệnh mà còn bổ sung một số lượng nhỏ các kỹ năng ma thuật bóng tối!</content>
+    </data>
+    <data>
+        <id>234</id>
+        <content>Rakshasa Lux có một số lượng lớn các kỹ năng gây thù hận và tự vệ; Shura Lux có sức tấn công vật lý mạnh mẽ, đặc biệt là các phương pháp tấn công và kỹ năng tăng cường sức mạnh tấn công thật đáng kinh ngạc!</content>
+    </data>
+    <data>
+        <id>235</id>
+        <content>Bloodblade Scout là nơi đào tạo chuyên nghiệp nâng cao cho hệ thống trinh sát, vốn chủ yếu là dao găm. Kỹ năng cận chiến bùng nổ cao là điểm đặc biệt của họ; các trinh sát ma giỏi sử dụng cung tên và sử dụng các kỹ năng tầm xa mạnh mẽ làm phương tiện tấn công Chúng được sinh ra với chúng.</content>
+    </data>
+    <data>
+        <id>236</id>
+        <content>Pháp sư ngọn lửa có sức tấn công phép thuật mạnh mẽ, có thể điều khiển lửa và các nguyên tố tự nhiên; pháp sư bí ẩn có thể kiểm soát các nguyên tố băng và bóng tối, và phép thuật thiên về khả năng kiểm soát và khả năng sống sót!</content>
+    </data>
+    <data>
+        <id>237</id>
+        <content>Blood Sacrifice Witch Doctor có các kỹ năng chữa bệnh mạnh mẽ và các kỹ năng bổ trợ vượt trội; Yin and Yang Witch Doctor không chỉ thành thạo các kỹ năng chữa bệnh mà còn bổ sung một số lượng nhỏ các kỹ năng ma thuật bóng tối!</content>
+    </data>
+    <data>
+        <id>240</id>
+        <content>Người chơi anh hùng beta kín 尛 tang 灬 CK.</content>
+    </data>
+    <data>
+        <id>241</id>
+        <content>Những người chơi anh hùng trong giai đoạn thử nghiệm kín đều sang trọng và bay bổng.</content>
+    </data>
+    <data>
+        <id>242</id>
+        <content>Những người chơi anh hùng đã đóng cửa là những bóng ma trẻ tuổi.</content>
+    </data>
+    <data>
+        <id>243</id>
+        <content>Người chơi anh hùng beta còn trẻ.</content>
+    </data>
+    <data>
+        <id>244</id>
+        <content>Những người chơi anh hùng đã đóng trong phiên bản beta là Lan Shan và Jiu Arc.</content>
+    </data>
+    <data>
+        <id>245</id>
+        <content>Người chơi anh hùng beta kín yêu thích Qiannian.</content>
+    </data>
+    <data>
+        <id>246</id>
+        <content>Người chơi cảm thấy yêu mến anh hùng trong giai đoạn thử nghiệm Closed Beta là Fire Rabbit.</content>
+    </data>
+    <data>
+        <id>247</id>
+        <content>Người chơi anh hùng beta kín ╯ nữ hoàng quỷ.</content>
+    </data>
+</include>

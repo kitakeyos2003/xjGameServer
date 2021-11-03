@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+    <data>
+        <id>1</id>
+        <name>Gói tân thủ</name>
+        <giftBagID>340084</giftBagID>
+        <needTime>0</needTime>
+        <icon>98</icon>
+    </data>
+    <data>
+        <id>2</id>
+        <name>Gói đếm ngược (2 phút)</name>
+        <giftBagID>340072</giftBagID>
+        <needTime>2</needTime>
+        <icon>98</icon>
+    </data>
+    <data>
+        <id>3</id>
+        <name>Gói đếm ngược (5 phút)</name>
+        <giftBagID>340073</giftBagID>
+        <needTime>7</needTime>
+        <icon>98</icon>
+    </data>
+    <data>
+        <id>4</id>
+        <name>Gói đếm ngược (10 phút)</name>
+        <giftBagID>340074</giftBagID>
+        <needTime>17</needTime>
+        <icon>98</icon>
+    </data>
+    <data>
+        <id>5</id>
+        <name>Gói đếm ngược (20 phút)</name>
+        <giftBagID>340075</giftBagID>
+        <needTime>37</needTime>
+        <icon>98</icon>
+    </data>
+    <data>
+        <id>6</id>
+        <name>Gói đếm ngược (30 phút)</name>
+        <giftBagID>340076</giftBagID>
+        <needTime>67</needTime>
+        <icon>98</icon>
+    </data>
+    <data>
+        <id>7</id>
+        <name>Gói đếm ngược (60 phút)</name>
+        <giftBagID>340077</giftBagID>
+        <needTime>127</needTime>
+        <icon>98</icon>
+    </data>
+</include>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+    <data>
+        <id>d1</id>
+        <tip>Hội trường đào tạo kỹ năng</tip>
+    </data>
+    <data>
+        <id>d2</id>
+        <tip>Nhà dân gian</tip>
+    </data>
+    <data>
+        <id>d3</id>
+        <tip>Hội trường đào tạo kỹ năng</tip>
+    </data>
+    <data>
+        <id>d5</id>
+        <tip>Dragon Inn</tip>
+    </data>
+    <data>
+        <id>d6</id>
+        <tip>Cửa hàng vật liệu</tip>
+    </data>
+    <data>
+        <id>d7</id>
+        <tip>Longshan Capital Hall</tip>
+    </data>
+    <data>
+        <id>d8</id>
+        <tip>Hội trường nghề nghiệp</tip>
+    </data>
+    <data>
+        <id>d9</id>
+        <tip>Phòng huấn luyện võ thuật</tip>
+    </data>
+    <data>
+        <id>d10</id>
+        <tip>Phòng luyện chính tả</tip>
+    </data>
+    <data>
+        <id>d11</id>
+        <tip>Sảnh ký gửi</tip>
+    </data>
+    <data>
+        <id>d12</id>
+        <tip>Sảnh kho</tip>
+    </data>
+    <data>
+        <id>d13</id>
+        <tip>Longzhiju</tip>
+    </data>
+    <data>
+        <id>d14</id>
+        <tip>Longshan Guards</tip>
+    </data>
+    <data>
+        <id>d15</id>
+        <tip>Cửa hàng vật liệu</tip>
+    </data>
+    <data>
+        <id>d16</id>
+        <tip>Ting Yu Xuan</tip>
+    </data>
+    <data>
+        <id>d17</id>
+        <tip>Hedu Capital Hall</tip>
+    </data>
+    <data>
+        <id>d18</id>
+        <tip>Hội trường nghề nghiệp</tip>
+    </data>
+    <data>
+        <id>d19</id>
+        <tip>Phòng huấn luyện võ thuật</tip>
+    </data>
+    <data>
+        <id>d20</id>
+        <tip>Phòng luyện chính tả</tip>
+    </data>
+    <data>
+        <id>d21</id>
+        <tip>Yuelai Inn</tip>
+    </data>
+    <data>
+        <id>d22</id>
+        <tip>Vệ binh Hedu</tip>
+    </data>
+    <data>
+        <id>d23</id>
+        <tip>Sảnh ký gửi</tip>
+    </data>
+    <data>
+        <id>d24</id>
+        <tip>Sảnh kho</tip>
+    </data>
+    <data>
+        <id>d25</id>
+        <tip>Tòa thị chính Qingling</tip>
+    </data>
+    <data>
+        <id>d26</id>
+        <tip>Sảnh vàng</tip>
+    </data>
+    <data>
+        <id>d27</id>
+        <tip>Vệ binh Qingling</tip>
+    </data>
+    <data>
+        <id>d28</id>
+        <tip>Tòa thị chính Fairyland</tip>
+    </data>
+    <data>
+        <id>d29</id>
+        <tip>Wonderland Pavilion</tip>
+    </data>
+    <data>
+        <id>d30</id>
+        <tip>Vệ binh thần tiên</tip>
+    </data>
+    <data>
+        <id>d31</id>
+        <tip>Sảnh thám hiểm</tip>
+    </data>
+    <data>
+        <id>d32</id>
+        <tip>Che giấu mặt</tip>
+    </data>
+    <data>
+        <id>d33</id>
+        <tip>Sảnh kho</tip>
+    </data>
+    <data>
+        <id>d34</id>
+        <tip>Sảnh ký gửi</tip>
+    </data>
+    <data>
+        <id>d35</id>
+        <tip>Sảnh chính của Expedition</tip>
+    </data>
+    <data>
+        <id>d36</id>
+        <tip>Đền Nuwa</tip>
+    </data>
+    <data>
+        <id>d37</id>
+        <tip>Phòng huấn luyện võ thuật</tip>
+    </data>
+    <data>
+        <id>d38</id>
+        <tip>Phòng luyện chính tả</tip>
+    </data>
+    <data>
+        <id>d39</id>
+        <tip>Gian hàng vàng và bạc</tip>
+    </data>
+    <data>
+        <id>d40</id>
+        <tip>Home Inn</tip>
+    </data>
+    <data>
+        <id>d41</id>
+        <tip>Tòa thị chính San'in</tip>
+    </data>
+    <data>
+        <id>d42</id>
+        <tip>Vệ binh San'in</tip>
+    </data>
+    <data>
+        <id>d43</id>
+        <tip>Sảnh ký gửi</tip>
+    </data>
+    <data>
+        <id>d44</id>
+        <tip>Tòa thị chính Dongyang</tip>
+    </data>
+    <data>
+        <id>d45</id>
+        <tip>Sảnh kho</tip>
+    </data>
+    <data>
+        <id>d46</id>
+        <tip>Phòng huấn luyện võ thuật</tip>
+    </data>
+    <data>
+        <id>d47</id>
+        <tip>Phòng luyện chính tả</tip>
+    </data>
+    <data>
+        <id>d48</id>
+        <tip>Tòa thị chính Musha</tip>
+    </data>
+    <data>
+        <id>d49</id>
+        <tip>Vệ binh Musha</tip>
+    </data>
+    <data>
+        <id>d50</id>
+        <tip>Sảnh vàng</tip>
+    </data>
+    <data>
+        <id>d51</id>
+        <tip>Hội trường làng Moxueshan</tip>
+    </data>
+    <data>
+        <id>d52</id>
+        <tip>Bảo vệ làng miền núi</tip>
+    </data>
+    <data>
+        <id>d53</id>
+        <tip>Xưởng sản xuất Long Sơn</tip>
+    </data>
+    <data>
+        <id>d54</id>
+        <tip>Xưởng sản xuất Hedu</tip>
+    </data>
+</include>

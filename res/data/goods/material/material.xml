@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+    <data>
+        <id>320001</id>
+        <name>Đá nhỏ</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>8</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320002</id>
+        <name>Gỗ vụn</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>13</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320003</id>
+        <name>Lanh</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>21</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320004</id>
+        <name>Sợi dây</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>32</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320005</id>
+        <name>Mảnh sắt vụn</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>46</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320006</id>
+        <name>Miếng đồng</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>64</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320007</id>
+        <name>Xương động vật</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>85</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320008</id>
+        <name>Xác sống</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>110</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320009</id>
+        <name>Than</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>140</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320010</id>
+        <name>Hoa quả</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>175</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320011</id>
+        <name>Lát tre</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>216</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320012</id>
+        <name>Cỏ đuôi chó</name>
+        <trait>Thường</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>262</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320013</id>
+        <name>Cây kim ngân hoa</name>
+        <trait>Xuất sắc</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>1000</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320014</id>
+        <name>Vàng thỏi</name>
+        <trait>Xuất sắc</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>1331</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+    <data>
+        <id>320015</id>
+        <name>Quặng sắt</name>
+        <trait>Xuất sắc</trait>
+        <exchangeable>Giao dịch</exchangeable>
+        <price>1728</price>
+        <stackNums>20</stackNums>
+        <icon>73</icon>
+        <description>Có vẻ như nó không được sử dụng nhiều, bạn có thể bán nó cho một thương gia với một số tiền</description>
+    </data>
+</include>

@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+    <data>
+        <id>31001</id>
+        <name>Bụi vật liệu</name>
+        <icon>7</icon>
+        <des>Một bụi của các nguyên tố đất</des>
+    </data>
+    <data>
+        <id>31002</id>
+        <name>Bụi nguyên tố</name>
+        <icon>7</icon>
+        <des>Một bụi của các nguyên tố đất</des>
+    </data>
+    <data>
+        <id>31003</id>
+        <name>Bụi đời</name>
+        <icon>7</icon>
+        <des>Một bụi của các nguyên tố đất</des>
+    </data>
+    <data>
+        <id>31004</id>
+        <name>Bụi linh hồn</name>
+        <icon>7</icon>
+        <des>Một bụi của các nguyên tố đất</des>
+    </data>
+    <data>
+        <id>31005</id>
+        <name>Bụi tiên</name>
+        <icon>7</icon>
+        <des>Một bụi của các nguyên tố đất</des>
+    </data>
+    <data>
+        <id>31006</id>
+        <name>Phổ vật chất</name>
+        <icon>2</icon>
+        <des>阳光的射线，是世界构成的一部分</des>
+    </data>
+    <data>
+        <id>31007</id>
+        <name>Phổ nguyên tố</name>
+        <icon>59</icon>
+        <des>阳光的射线，是世界构成的一部分</des>
+    </data>
+    <data>
+        <id>31008</id>
+        <name>Quang phổ cuộc sống</name>
+        <icon>22</icon>
+        <des>阳光的射线，是世界构成的一部分</des>
+    </data>
+    <data>
+        <id>31009</id>
+        <name>Soul Spectrum</name>
+        <icon>87</icon>
+        <des>阳光的射线，是世界构成的一部分</des>
+    </data>
+    <data>
+        <id>31010</id>
+        <name>Quang phổ thần tiên</name>
+        <icon>57</icon>
+        <des>阳光的射线，是世界构成的一部分</des>
+    </data>
+    <data>
+        <id>31011</id>
+        <name>Bụi cát đồng</name>
+        <icon>42</icon>
+        <des>混合物质的砂尘，比尘埃更大个</des>
+    </data>
+    <data>
+        <id>31012</id>
+        <name>Cát bụi đồng nguyên chất</name>
+        <icon>42</icon>
+        <des>混合物质的砂尘，比尘埃更大个</des>
+    </data>
+    <data>
+        <id>31013</id>
+        <name>Bụi cát đồng</name>
+        <icon>42</icon>
+        <des>混合物质的砂尘，比尘埃更大个</des>
+    </data>
+    <data>
+        <id>31014</id>
+        <name>Bụi cát bạc</name>
+        <icon>42</icon>
+        <des>混合物质的砂尘，比尘埃更大个</des>
+    </data>
+    <data>
+        <id>31015</id>
+        <name>Bụi cát bạc</name>
+        <icon>42</icon>
+        <des>混合物质的砂尘，比尘埃更大个</des>
+    </data>
+    <data>
+        <id>31016</id>
+        <name>Bụi cát bạc thánh</name>
+        <icon>42</icon>
+        <des>混合物质的砂尘，比尘埃更大个</des>
+    </data>
+    <data>
+        <id>31017</id>
+        <name>Bụi cát vàng</name>
+        <icon>42</icon>
+        <des>混合物质的砂尘，比尘埃更大个</des>
+    </data>
+    <data>
+        <id>31018</id>
+        <name>Bụi vàng sẫm</name>
+        <icon>42</icon>
+        <des>混合物质的砂尘，比尘埃更大个</des>
+    </data>
+    <data>
+        <id>31019</id>
+        <name>Bụi cát tím</name>
+        <icon>42</icon>
+        <des>混合物质的砂尘，比尘埃更大个</des>
+    </data>
+    <data>
+        <id>31020</id>
+        <name>Hạt liễu</name>
+        <icon>49</icon>
+        <des>木头的微粒，比砂尘颗粒更大</des>
+    </data>
+    <data>
+        <id>31021</id>
+        <name>Hạt cây dương</name>
+        <icon>49</icon>
+        <des>木头的微粒，比砂尘颗粒更大</des>
+    </data>
+    <data>
+        <id>31022</id>
+        <name>Hạt gỗ Sophora</name>
+        <icon>49</icon>
+        <des>木头的微粒，比砂尘颗粒更大</des>
+    </data>
+    <data>
+        <id>31023</id>
+        <name>Hạt gỗ gụ</name>
+        <icon>49</icon>
+        <des>木头的微粒，比砂尘颗粒更大</des>
+    </data>
+    <data>
+        <id>31024</id>
+        <name>Teak hạt</name>
+        <icon>49</icon>
+        <des>木头的微粒，比砂尘颗粒更大</des>
+    </data>
+    <data>
+        <id>31025</id>
+        <name>Hạt gỗ hồng sắc</name>
+        <icon>49</icon>
+        <des>木头的微粒，比砂尘颗粒更大</des>
+    </data>
+    <data>
+        <id>31026</id>
+        <name>Thay đổi các hạt gỗ</name>
+        <icon>49</icon>
+        <des>木头的微粒，比砂尘颗粒更大</des>
+    </data>
+    <data>
+        <id>31027</id>
+        <name>Hạt gỗ hồng sắc</name>
+        <icon>49</icon>
+        <des>木头的微粒，比砂尘颗粒更大</des>
+    </data>
+    <data>
+        <id>31028</id>
+        <name>Hạt gỗ lim</name>
+        <icon>49</icon>
+        <des>木头的微粒，比砂尘颗粒更大</des>
+    </data>
+    <data>
+        <id>31029</id>
+        <name>Cấu trúc vật liệu</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31030</id>
+        <name>Cấu trúc phần tử</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31031</id>
+        <name>Cấu trúc cuộc sống</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31032</id>
+        <name>Cấu tạo linh hồn</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31033</id>
+        <name>Faerie Construct</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31034</id>
+        <name>Cấu trúc của vật chất tinh khiết</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31035</id>
+        <name>Cấu tạo nguyên tố tinh khiết</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31036</id>
+        <name>Cấu trúc cuộc sống thuần túy</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31037</id>
+        <name>Cấu tạo linh hồn thuần khiết</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31038</id>
+        <name>Cấu tạo loài tinh khiết</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31039</id>
+        <name>Cấu tạo vật chất bóng tối</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31040</id>
+        <name>Cấu tạo nguyên tố bóng tối</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31041</id>
+        <name>Shadow Life Construct</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31042</id>
+        <name>Cấu tạo linh hồn bóng tối</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31043</id>
+        <name>Cấu tạo Shadow Faerie</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31044</id>
+        <name>Cấu trúc nước</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31045</id>
+        <name>Cấu trúc phần tử nước</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31046</id>
+        <name>Cấu trúc thủy sinh</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31047</id>
+        <name>Cấu tạo linh hồn nước</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31048</id>
+        <name>Trúc thủy tiên</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31049</id>
+        <name>Cấu trúc vật liệu cháy</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31050</id>
+        <name>Cấu tạo nguyên tố lửa</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31051</id>
+        <name>Fire Life Construct</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31052</id>
+        <name>Cấu tạo linh hồn lửa</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31053</id>
+        <name>Fire Faerie Construct</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31054</id>
+        <name>Cấu trúc đất</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31055</id>
+        <name>Cấu trúc nguyên tố đất</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31056</id>
+        <name>Cấu trúc đời sống của đất</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31057</id>
+        <name>Cấu tạo linh hồn trái đất</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31058</id>
+        <name>Cấu trúc của Earth Faerie</name>
+        <icon>227</icon>
+        <des>Cấu trúc cơ bản của mọi vật chất trên thế giới</des>
+    </data>
+    <data>
+        <id>31059</id>
+        <name>Đá thạch anh tím</name>
+        <icon>226</icon>
+        <des>宝石的砂砾，很贵重的东西</des>
+    </data>
+    <data>
+        <id>31060</id>
+        <name>Cát topaz</name>
+        <icon>226</icon>
+        <des>宝石的砂砾，很贵重的东西</des>
+    </data>
+    <data>
+        <id>31061</id>
+        <name>Đá ruby</name>
+        <icon>226</icon>
+        <des>宝石的砂砾，很贵重的东西</des>
+    </data>
+    <data>
+        <id>31062</id>
+        <name>Đá sapphire</name>
+        <icon>226</icon>
+        <des>宝石的砂砾，很贵重的东西</des>
+    </data>
+    <data>
+        <id>31063</id>
+        <name>Sạn đá mê hoặc</name>
+        <icon>226</icon>
+        <des>宝石的砂砾，很贵重的东西</des>
+    </data>
+    <data>
+        <id>31064</id>
+        <name>Ngọc lục bảo grit</name>
+        <icon>226</icon>
+        <des>宝石的砂砾，很贵重的东西</des>
+    </data>
+    <data>
+        <id>31065</id>
+        <name>Heart of the Sea Sand</name>
+        <icon>226</icon>
+        <des>宝石的砂砾，很贵重的东西</des>
+    </data>
+    <data>
+        <id>31066</id>
+        <name>Sạn kim cương</name>
+        <icon>226</icon>
+        <des>宝石的砂砾，很贵重的东西</des>
+    </data>
+    <data>
+        <id>31067</id>
+        <name>Mèo mắt mèo vàng</name>
+        <icon>226</icon>
+        <des>宝石的砂砾，很贵重的东西</des>
+    </data>
+    <data>
+        <id>31068</id>
+        <name>Bột ngọc trai đốm xanh</name>
+        <icon>209</icon>
+        <des>珍珠的粉末，非常稀有</des>
+    </data>
+    <data>
+        <id>31069</id>
+        <name>Bột ngọc trai tím</name>
+        <icon>209</icon>
+        <des>珍珠的粉末，非常稀有</des>
+    </data>
+    <data>
+        <id>31070</id>
+        <name>Bột Huang Yaozhu</name>
+        <icon>209</icon>
+        <des>珍珠的粉末，非常稀有</des>
+    </data>
+    <data>
+        <id>31071</id>
+        <name>Bột topaz</name>
+        <icon>209</icon>
+        <des>珍珠的粉末，非常稀有</des>
+    </data>
+    <data>
+        <id>31072</id>
+        <name>Bột hạt đốm màu tím</name>
+        <icon>209</icon>
+        <des>珍珠的粉末，非常稀有</des>
+    </data>
+    <data>
+        <id>31073</id>
+        <name>Bột ngọc trai Macular</name>
+        <icon>209</icon>
+        <des>珍珠的粉末，非常稀有</des>
+    </data>
+    <data>
+        <id>31074</id>
+        <name>Bột ngọc bích tím</name>
+        <icon>209</icon>
+        <des>珍珠的粉末，非常稀有</des>
+    </data>
+    <data>
+        <id>31075</id>
+        <name>Bột ngọc trai xanh</name>
+        <icon>209</icon>
+        <des>珍珠的粉末，非常稀有</des>
+    </data>
+    <data>
+        <id>31076</id>
+        <name>Bột ngọc bích xanh</name>
+        <icon>209</icon>
+        <des>珍珠的粉末，非常稀有</des>
+    </data>
+    <data>
+        <id>31077</id>
+        <name>Sương tím</name>
+        <icon>18</icon>
+        <des>水雾状的东西，有特殊价值</des>
+    </data>
+    <data>
+        <id>31078</id>
+        <name>Sương mù xanh</name>
+        <icon>69</icon>
+        <des>水雾状的东西，有特殊价值</des>
+    </data>
+    <data>
+        <id>31079</id>
+        <name>Sương mù vàng</name>
+        <icon>57</icon>
+        <des>水雾状的东西，有特殊价值</des>
+    </data>
+    <data>
+        <id>31080</id>
+        <name>Linh hồn màu tím</name>
+        <icon>18</icon>
+        <des>水雾状的东西，有特殊价值</des>
+    </data>
+    <data>
+        <id>31081</id>
+        <name>Tâm hồn xanh</name>
+        <icon>69</icon>
+        <des>水雾状的东西，有特殊价值</des>
+    </data>
+    <data>
+        <id>31082</id>
+        <name>Linh hồn màu vàng</name>
+        <icon>57</icon>
+        <des>水雾状的东西，有特殊价值</des>
+    </data>
+    <data>
+        <id>31083</id>
+        <name>Bụi bóng</name>
+        <icon>91</icon>
+        <des>元素的浮尘，富有强烈的魔力</des>
+    </data>
+    <data>
+        <id>31084</id>
+        <name>Bụi thiêng</name>
+        <icon>91</icon>
+        <des>元素的浮尘，富有强烈的魔力</des>
+    </data>
+    <data>
+        <id>31085</id>
+        <name>Bụi thiêu đốt</name>
+        <icon>91</icon>
+        <des>元素的浮尘，富有强烈的魔力</des>
+    </data>
+    <data>
+        <id>31086</id>
+        <name>Bụi trên trái đất</name>
+        <icon>91</icon>
+        <des>元素的浮尘，富有强烈的魔力</des>
+    </data>
+    <data>
+        <id>31087</id>
+        <name>Bụi biển sâu</name>
+        <icon>91</icon>
+        <des>元素的浮尘，富有强烈的魔力</des>
+    </data>
+</include>
